@@ -6,4 +6,4 @@ Very Cool Plugins made by me for AngularJS Applications
 *nsRegExInput -> Include BootStrap Tooltip to a field
 *nsTooltip -> Execute a specified function/method after pressing the return key is press inside a field
 
-### "All projects or parts of then posted in GIT was made all by me, those parts made someone else was marked. Of course, there are libraries as libraries like Jquery, Angular, PHPMailer."
+### "All projects or parts of then posted in GIT was made all by me, those parts made someone else was marked. Of course, there are libraries as Jquery, Angular, PHPMailer."
